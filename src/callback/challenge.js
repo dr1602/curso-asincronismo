@@ -34,3 +34,5 @@ fetchData(`${API}/products`, function (error1 , data1) {
         })
     })
 })
+
+// Ejecutar desde la consola
